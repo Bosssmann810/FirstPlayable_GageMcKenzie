@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EB19922-96D7-40C1-A63D-005222AF6B77}|FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie.csproj|C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\firstplayable_gagemckenzie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EB19922-96D7-40C1-A63D-005222AF6B77}|FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie.csproj|C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\firstplayable_gagemckenzie\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB19922-96D7-40C1-A63D-005222AF6B77}|FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie.csproj|solutionrelative:firstplayable_gagemckenzie\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB19922-96D7-40C1-A63D-005222AF6B77}|FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie.csproj|c:\\users\\w0522339\\masonunity\\firstplayable_gagemckenzie\\firstplayable_gagemckenzie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EB19922-96D7-40C1-A63D-005222AF6B77}|FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie.csproj|solutionrelative:firstplayable_gagemckenzie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\bin\\Debug\\MapFile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FirstPlayable_GageMcKenzie\\bin\\Debug\\MapFile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EB19922-96D7-40C1-A63D-005222AF6B77}|FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie.csproj|C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\firstplayable_gagemckenzie\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,11 +23,7 @@
       "RelativeMoniker": "D:0:0:{5EB19922-96D7-40C1-A63D-005222AF6B77}|FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie.csproj|solutionrelative:firstplayable_gagemckenzie\\healthsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EB19922-96D7-40C1-A63D-005222AF6B77}|FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie.csproj|C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\firstplayable_gagemckenzie\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EB19922-96D7-40C1-A63D-005222AF6B77}|FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie.csproj|solutionrelative:firstplayable_gagemckenzie\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EB19922-96D7-40C1-A63D-005222AF6B77}|FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie.csproj|c:\\users\\w0522339\\masonunity\\firstplayable_gagemckenzie\\firstplayable_gagemckenzie\\shopitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EB19922-96D7-40C1-A63D-005222AF6B77}|FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie.csproj|C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\firstplayable_gagemckenzie\\shopitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EB19922-96D7-40C1-A63D-005222AF6B77}|FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie.csproj|solutionrelative:firstplayable_gagemckenzie\\shopitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -55,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{5EB19922-96D7-40C1-A63D-005222AF6B77}|FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie.csproj|solutionrelative:firstplayable_gagemckenzie\\increasedamageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\bin\\Debug\\MapFile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FirstPlayable_GageMcKenzie\\bin\\Debug\\MapFile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5EB19922-96D7-40C1-A63D-005222AF6B77}|FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie.csproj|C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\firstplayable_gagemckenzie\\chestiteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EB19922-96D7-40C1-A63D-005222AF6B77}|FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie.csproj|solutionrelative:firstplayable_gagemckenzie\\chestiteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -90,11 +90,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ShopItem.cs",
               "DocumentMoniker": "C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\ShopItem.cs",
               "RelativeDocumentMoniker": "FirstPlayable_GageMcKenzie\\ShopItem.cs",
@@ -102,12 +102,11 @@
               "RelativeToolTip": "FirstPlayable_GageMcKenzie\\ShopItem.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAADQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T11:59:07.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T11:59:07.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "borders.cs",
               "DocumentMoniker": "C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\borders.cs",
               "RelativeDocumentMoniker": "FirstPlayable_GageMcKenzie\\borders.cs",
@@ -115,8 +114,7 @@
               "RelativeToolTip": "FirstPlayable_GageMcKenzie\\borders.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T11:40:58.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T11:40:58.21Z"
             },
             {
               "$type": "Document",
@@ -140,12 +138,11 @@
               "RelativeToolTip": "FirstPlayable_GageMcKenzie\\SpeedyEnemy.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAqwFIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T11:40:58.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T11:40:58.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Map.cs",
               "DocumentMoniker": "C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\Map.cs",
               "RelativeDocumentMoniker": "FirstPlayable_GageMcKenzie\\Map.cs",
@@ -153,12 +150,11 @@
               "RelativeToolTip": "FirstPlayable_GageMcKenzie\\Map.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAkwFQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T11:40:58.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T11:40:58.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Items.cs",
               "DocumentMoniker": "C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\Items.cs",
               "RelativeDocumentMoniker": "FirstPlayable_GageMcKenzie\\Items.cs",
@@ -166,12 +162,11 @@
               "RelativeToolTip": "FirstPlayable_GageMcKenzie\\Items.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAYwDIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T11:40:58.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T11:40:58.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IncreaseDamageItem.cs",
               "DocumentMoniker": "C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\IncreaseDamageItem.cs",
               "RelativeDocumentMoniker": "FirstPlayable_GageMcKenzie\\IncreaseDamageItem.cs",
@@ -179,38 +174,37 @@
               "RelativeToolTip": "FirstPlayable_GageMcKenzie\\IncreaseDamageItem.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAIAwwBYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:40:58.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\Program.cs",
+              "RelativeDocumentMoniker": "FirstPlayable_GageMcKenzie\\Program.cs",
+              "ToolTip": "C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\Program.cs",
+              "RelativeToolTip": "FirstPlayable_GageMcKenzie\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwEkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T11:40:58.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\Program.cs",
-              "RelativeDocumentMoniker": "FirstPlayable_GageMcKenzie\\Program.cs",
-              "ToolTip": "C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\Program.cs",
-              "RelativeToolTip": "FirstPlayable_GageMcKenzie\\Program.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAQwEkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T11:40:58.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Money.cs",
               "DocumentMoniker": "C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\Money.cs",
               "RelativeDocumentMoniker": "FirstPlayable_GageMcKenzie\\Money.cs",
               "ToolTip": "C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\Money.cs",
               "RelativeToolTip": "FirstPlayable_GageMcKenzie\\Money.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T11:40:58.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "MapFile.txt",
               "DocumentMoniker": "C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\bin\\Debug\\MapFile.txt",
               "RelativeDocumentMoniker": "FirstPlayable_GageMcKenzie\\bin\\Debug\\MapFile.txt",
@@ -223,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HealthSystem.cs",
               "DocumentMoniker": "C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\HealthSystem.cs",
               "RelativeDocumentMoniker": "FirstPlayable_GageMcKenzie\\HealthSystem.cs",
@@ -231,12 +225,11 @@
               "RelativeToolTip": "FirstPlayable_GageMcKenzie\\HealthSystem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T11:40:58.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T11:40:58.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\Player.cs",
               "RelativeDocumentMoniker": "FirstPlayable_GageMcKenzie\\Player.cs",
@@ -244,8 +237,7 @@
               "RelativeToolTip": "FirstPlayable_GageMcKenzie\\Player.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAiwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T11:40:58.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T11:40:58.32Z"
             },
             {
               "$type": "Document",
@@ -257,8 +249,7 @@
               "RelativeToolTip": "FirstPlayable_GageMcKenzie\\ChestIteam.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwCUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T11:40:58.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T11:40:58.32Z"
             },
             {
               "$type": "Document",
@@ -270,8 +261,7 @@
               "RelativeToolTip": "FirstPlayable_GageMcKenzie\\Enemy.cs",
               "ViewState": "AgIAAFYAAAAAAAAAAAAiwGkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T11:40:58.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T11:40:58.32Z"
             },
             {
               "$type": "Document",
@@ -283,12 +273,11 @@
               "RelativeToolTip": "FirstPlayable_GageMcKenzie\\ButtonIteam.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T11:40:58.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T11:40:58.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "HealItem.cs",
               "DocumentMoniker": "C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\HealItem.cs",
               "RelativeDocumentMoniker": "FirstPlayable_GageMcKenzie\\HealItem.cs",
@@ -296,8 +285,7 @@
               "RelativeToolTip": "FirstPlayable_GageMcKenzie\\HealItem.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T11:40:58.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T11:40:58.32Z"
             },
             {
               "$type": "Document",
@@ -309,12 +297,11 @@
               "RelativeToolTip": "FirstPlayable_GageMcKenzie\\GameHud.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAADwvxwAAADUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T11:40:58.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T11:40:58.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ShieldItem.cs",
               "DocumentMoniker": "C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\ShieldItem.cs",
               "RelativeDocumentMoniker": "FirstPlayable_GageMcKenzie\\ShieldItem.cs",
@@ -322,12 +309,11 @@
               "RelativeToolTip": "FirstPlayable_GageMcKenzie\\ShieldItem.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T11:40:58.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T11:40:58.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Character.cs",
               "DocumentMoniker": "C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\Character.cs",
               "RelativeDocumentMoniker": "FirstPlayable_GageMcKenzie\\Character.cs",
@@ -335,12 +321,11 @@
               "RelativeToolTip": "FirstPlayable_GageMcKenzie\\Character.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T11:40:58.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T11:40:58.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Position.cs",
               "DocumentMoniker": "C:\\Users\\w0522339\\MasonUnity\\FirstPlayable_GageMcKenzie\\FirstPlayable_GageMcKenzie\\Position.cs",
               "RelativeDocumentMoniker": "FirstPlayable_GageMcKenzie\\Position.cs",
@@ -348,8 +333,7 @@
               "RelativeToolTip": "FirstPlayable_GageMcKenzie\\Position.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T11:40:58.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T11:40:58.324Z"
             }
           ]
         }

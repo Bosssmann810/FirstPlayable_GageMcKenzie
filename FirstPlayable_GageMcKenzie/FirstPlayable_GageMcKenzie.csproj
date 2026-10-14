@@ -61,6 +61,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ShieldItem.cs" />
+    <Compile Include="ShopItem.cs" />
     <Compile Include="SpeedyEnemy.cs" />
   </ItemGroup>
   <ItemGroup>

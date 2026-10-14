@@ -74,7 +74,20 @@ namespace FirstPlayable_GageMcKenzie
                         Console.ForegroundColor = ConsoleColor.White;
 
                     }
-
+                    if (_newMapData[i][j] == '[')
+                    {
+                        Console.ForegroundColor = ConsoleColor.DarkYellow;
+                        Console.Write(_newMapData[i][j]);
+                        _border.Add((j + 1, i + 1));
+                        Console.ForegroundColor = ConsoleColor.White;
+                    }
+                    if (_newMapData[i][j] == ']')
+                    {
+                        Console.ForegroundColor = ConsoleColor.DarkYellow;
+                        Console.Write(_newMapData[i][j]);
+                        _border.Add((j + 1, i + 1));
+                        Console.ForegroundColor = ConsoleColor.White;
+                    }
                     if (_newMapData[i][j] == '~')
                     {
                         Console.ForegroundColor = ConsoleColor.Blue;

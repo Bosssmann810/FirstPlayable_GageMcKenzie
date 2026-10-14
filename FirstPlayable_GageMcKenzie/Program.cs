@@ -70,6 +70,7 @@ namespace FirstPlayable_GageMcKenzie
             new HealItem(player, 12, 23, 2, 'H', ConsoleColor.DarkGreen),
             new HealItem(player, 67, 30, 2, 'H', ConsoleColor.DarkGreen),
             new ButtonItem(player, 39,5,1,'?', ConsoleColor.Cyan, borders),
+            new ShopItem(player, 18,2, 1, 'H', ConsoleColor.DarkYellow, 1, 0)
 
             
         };

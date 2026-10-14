@@ -22,3 +22,10 @@ C:\Users\w0526843\Documents\GitHub\FirstPlayable_GageMcKenzie\FirstPlayable_Gage
 C:\Users\w0526843\Documents\GitHub\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\obj\Debug\FirstPlayable_GageMcKenzie.exe
 C:\Users\w0526843\Documents\GitHub\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\obj\Debug\FirstPlayable_GageMcKenzie.pdb
 C:\Users\mgc72\Documents\unity project\challenge03-unitylevelmanagment-Shockingnews\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\obj\Debug\FirstPlayable_GageMcKenzie.exe.config
+C:\Users\w0522339\MasonUnity\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\bin\Debug\FirstPlayable_GageMcKenzie.exe.config
+C:\Users\w0522339\MasonUnity\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\bin\Debug\FirstPlayable_GageMcKenzie.exe
+C:\Users\w0522339\MasonUnity\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\bin\Debug\FirstPlayable_GageMcKenzie.pdb
+C:\Users\w0522339\MasonUnity\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\obj\Debug\FirstPlayable_GageMcKenzie.csproj.AssemblyReference.cache
+C:\Users\w0522339\MasonUnity\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\obj\Debug\FirstPlayable_GageMcKenzie.csproj.CoreCompileInputs.cache
+C:\Users\w0522339\MasonUnity\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\obj\Debug\FirstPlayable_GageMcKenzie.exe
+C:\Users\w0522339\MasonUnity\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\obj\Debug\FirstPlayable_GageMcKenzie.pdb

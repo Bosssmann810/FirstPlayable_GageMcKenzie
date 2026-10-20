@@ -20,3 +20,10 @@ C:\Users\w0522339\MasonUnity\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenz
 C:\Users\w0522339\MasonUnity\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\obj\Release\FirstPlayable_GageMcKenzie.csproj.CoreCompileInputs.cache
 C:\Users\w0522339\MasonUnity\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\obj\Release\FirstPlayable_GageMcKenzie.exe
 C:\Users\w0522339\MasonUnity\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\obj\Release\FirstPlayable_GageMcKenzie.pdb
+C:\Users\W0522339\Unity\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\bin\Release\FirstPlayable_GageMcKenzie.exe.config
+C:\Users\W0522339\Unity\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\bin\Release\FirstPlayable_GageMcKenzie.exe
+C:\Users\W0522339\Unity\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\bin\Release\FirstPlayable_GageMcKenzie.pdb
+C:\Users\W0522339\Unity\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\obj\Release\FirstPlayable_GageMcKenzie.csproj.AssemblyReference.cache
+C:\Users\W0522339\Unity\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\obj\Release\FirstPlayable_GageMcKenzie.csproj.CoreCompileInputs.cache
+C:\Users\W0522339\Unity\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\obj\Release\FirstPlayable_GageMcKenzie.exe
+C:\Users\W0522339\Unity\FirstPlayable_GageMcKenzie\FirstPlayable_GageMcKenzie\obj\Release\FirstPlayable_GageMcKenzie.pdb

@@ -48,7 +48,7 @@ namespace FirstPlayable_GageMcKenzie
                 }
                 if( _effect == 2)
                 {
-                    _player.AddDamage(3);
+                    _player.AddDamage(5);
                 }
                 base.OnPickUp();
                 _player.PreviousPos();

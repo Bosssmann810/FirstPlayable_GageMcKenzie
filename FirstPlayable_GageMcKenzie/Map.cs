@@ -104,6 +104,7 @@ namespace FirstPlayable_GageMcKenzie
                         Console.ForegroundColor = ConsoleColor.White;
 
                     }
+                    /*
                     if (_newMapData[i][j] == '_')
                     {
                         Console.ForegroundColor = ConsoleColor.DarkRed;
@@ -115,7 +116,7 @@ namespace FirstPlayable_GageMcKenzie
                         Console.ForegroundColor = ConsoleColor.White;
 
                     }
-
+                    */
                     if (_newMapData[i][j] == '^')
                     {
                         Console.ForegroundColor = ConsoleColor.White;

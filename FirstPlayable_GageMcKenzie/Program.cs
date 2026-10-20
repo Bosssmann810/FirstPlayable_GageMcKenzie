@@ -24,6 +24,7 @@ namespace FirstPlayable_GageMcKenzie
             new ChunkyEnemy(maxHealth: 20, maxShield:0, name: "Heavy", enemyPosX: 10, enemyPosY: 24, player: player, damage: 10,isAlive: true, enemyLogo: '@', color: ConsoleColor.Red),
             new ChunkyEnemy(maxHealth: 20, maxShield:0, name: "Heavy", enemyPosX: 11, enemyPosY: 20, player: player, damage: 10,isAlive: true, enemyLogo: '@', color: ConsoleColor.Red),
             new ChunkyEnemy(maxHealth: 20, maxShield:0, name: "Heavy", enemyPosX: 20, enemyPosY: 30, player: player, damage: 10,isAlive: true, enemyLogo: '@', color: ConsoleColor.Red),
+            /*
             new ChunkyEnemy(maxHealth: 20, maxShield:0, name: "Heavy", enemyPosX: 40, enemyPosY: 2, player: player, damage: 10,isAlive: true, enemyLogo: '@', color: ConsoleColor.Red),
             new ChunkyEnemy(maxHealth: 20, maxShield:0, name: "Heavy", enemyPosX: 79, enemyPosY: 34, player: player, damage: 10,isAlive: true, enemyLogo: '@', color: ConsoleColor.Red),
             new ChunkyEnemy(maxHealth: 20, maxShield:0, name: "Heavy", enemyPosX: 90, enemyPosY: 25, player: player, damage: 10,isAlive: true, enemyLogo: '@', color: ConsoleColor.Red),
@@ -42,7 +43,7 @@ namespace FirstPlayable_GageMcKenzie
             new SpeedyEnemy(maxHealth: 10, maxShield: 0, name: "Speedy Boi", enemyPosX: 62, enemyPosY: 15, player: player, damage: 5, isAlive: true, enemyLogo: 'I', color: ConsoleColor.Red),
             new SpeedyEnemy(maxHealth: 10, maxShield: 0, name: "Speedy Boi", enemyPosX: 42, enemyPosY: 5, player: player, damage: 5, isAlive: true, enemyLogo: 'I', color: ConsoleColor.Red),
             new SpeedyEnemy(maxHealth: 10, maxShield: 0, name: "Speedy Boi", enemyPosX: 56, enemyPosY: 15, player: player, damage: 5, isAlive: true, enemyLogo: 'I', color: ConsoleColor.Red)
-
+            */
         };
         static Borders borders = new Borders(player, enemies);
 
@@ -229,7 +230,7 @@ namespace FirstPlayable_GageMcKenzie
 
             player.IsALive();
             turns -= 0;
-            Console.Clear();
+           // Console.Clear();
             
 
 

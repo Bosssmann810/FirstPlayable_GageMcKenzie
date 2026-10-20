@@ -11,7 +11,7 @@ namespace FirstPlayable_GageMcKenzie
         public int gold;
         Position _moneyPos;
         Player _player;
-       List <bool> PickedUp = new List<bool>() {false,false,false,false,false,false,false };
+       List <bool> PickedUp = new List<bool>() {false,false,false,false,false,false,false, false, false,false,false,false};
 
         public Money(int Value, Player player) 
         { 
@@ -20,7 +20,7 @@ namespace FirstPlayable_GageMcKenzie
         }
         public void drawMoney()
         {
-            PlaceMoney(new List<int>() { 5,5, 10, 15,30, 32,50 }, new List<int>() {9, 8, 7, 5, 5,20,30});
+            PlaceMoney(new List<int>() { 5,5, 10, 15,30, 32,50, 50,50,75,74,73 }, new List<int>() {9, 8, 7, 5, 5,20,30,31,32,30,30,30});
         }
 
         public void PlaceMoney(List <int> xPos, List<int> yPos)

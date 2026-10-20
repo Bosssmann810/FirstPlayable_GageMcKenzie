@@ -25,7 +25,7 @@ namespace FirstPlayable_GageMcKenzie
             new ChunkyEnemy(maxHealth: 20, maxShield:0, name: "Heavy", enemyPosX: 11, enemyPosY: 20, player: player, damage: 10,isAlive: true, enemyLogo: '@', color: ConsoleColor.Red),
             new ChunkyEnemy(maxHealth: 20, maxShield:0, name: "Heavy", enemyPosX: 20, enemyPosY: 30, player: player, damage: 10,isAlive: true, enemyLogo: '@', color: ConsoleColor.Red),
             new ChunkyEnemy(maxHealth: 20, maxShield:0, name: "Heavy", enemyPosX: 40, enemyPosY: 2, player: player, damage: 10,isAlive: true, enemyLogo: '@', color: ConsoleColor.Red),
-            new ChunkyEnemy(maxHealth: 20, maxShield:0, name: "Heavy", enemyPosX: 79, enemyPosY: 35, player: player, damage: 10,isAlive: true, enemyLogo: '@', color: ConsoleColor.Red),
+            new ChunkyEnemy(maxHealth: 20, maxShield:0, name: "Heavy", enemyPosX: 79, enemyPosY: 34, player: player, damage: 10,isAlive: true, enemyLogo: '@', color: ConsoleColor.Red),
             new ChunkyEnemy(maxHealth: 20, maxShield:0, name: "Heavy", enemyPosX: 90, enemyPosY: 25, player: player, damage: 10,isAlive: true, enemyLogo: '@', color: ConsoleColor.Red),
             new ChunkyEnemy(maxHealth: 20, maxShield:0, name: "Heavy", enemyPosX: 77, enemyPosY: 25, player: player, damage: 10,isAlive: true, enemyLogo: '@', color: ConsoleColor.Red),
             new ChunkyEnemy(maxHealth: 20, maxShield:0, name: "Heavy", enemyPosX: 44, enemyPosY: 7, player: player, damage: 10,isAlive: true, enemyLogo: '@', color: ConsoleColor.Red),
@@ -71,8 +71,14 @@ namespace FirstPlayable_GageMcKenzie
             new HealItem(player, 67, 30, 2, 'H', ConsoleColor.DarkGreen),
             new ButtonItem(player, 39,5,1,'?', ConsoleColor.Cyan, borders),
             new ShopItem(player, 18,2, 1, 'H', ConsoleColor.DarkYellow, 1, 0),
-            new ShopItem(player, 11,2,1, 'H', ConsoleColor.DarkYellow,1,0)
-
+            new ShopItem(player, 11,2,1, 'H', ConsoleColor.DarkYellow,1,0),
+            new ShopItem (player, 14,2,1,'H', ConsoleColor.DarkYellow,1,0),
+            new ShopItem(player, 73, 37, 1, '^', ConsoleColor.DarkYellow, 2, 2),
+            new ShopItem(player, 76, 37, 1, '^', ConsoleColor.DarkYellow,2, 2),
+            new ShopItem(player, 79, 37, 1, '^', ConsoleColor.DarkYellow,2,2),
+            new ShopItem(player, 81, 2, 1, '(', ConsoleColor.DarkYellow,1,1),
+            new ShopItem(player, 78, 2,1,'(',ConsoleColor.DarkYellow,1,1),
+            new ShopItem(player, 75,2,1,'(',ConsoleColor.DarkYellow,1,1)
         };
         
         
